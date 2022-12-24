@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/userApplication/static/css/main.82221bef.css",
+    "main.js": "/userApplication/static/js/main.2350dc34.js",
+    "static/js/787.a2db4de0.chunk.js": "/userApplication/static/js/787.a2db4de0.chunk.js",
+    "static/media/wp8926127-aot-4k-wallpapers.jpg": "/userApplication/static/media/wp8926127-aot-4k-wallpapers.bacd9b7a6815260d7d5c.jpg",
+    "index.html": "/userApplication/index.html",
+    "main.82221bef.css.map": "/userApplication/static/css/main.82221bef.css.map",
+    "main.2350dc34.js.map": "/userApplication/static/js/main.2350dc34.js.map",
+    "787.a2db4de0.chunk.js.map": "/userApplication/static/js/787.a2db4de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82221bef.css",
+    "static/js/main.2350dc34.js"
+  ]
+}
