@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coding-challenge-frontend/static/css/main.93e7cbe2.css",
-    "main.js": "/coding-challenge-frontend/static/js/main.e65bd7d5.js",
+    "main.css": "/coding-challenge-frontend/static/css/main.df55f4c9.css",
+    "main.js": "/coding-challenge-frontend/static/js/main.f999cc36.js",
     "static/js/787.a2db4de0.chunk.js": "/coding-challenge-frontend/static/js/787.a2db4de0.chunk.js",
     "static/media/wp8926127-aot-4k-wallpapers.jpg": "/coding-challenge-frontend/static/media/wp8926127-aot-4k-wallpapers.bacd9b7a6815260d7d5c.jpg",
     "index.html": "/coding-challenge-frontend/index.html",
-    "main.93e7cbe2.css.map": "/coding-challenge-frontend/static/css/main.93e7cbe2.css.map",
-    "main.e65bd7d5.js.map": "/coding-challenge-frontend/static/js/main.e65bd7d5.js.map",
+    "main.df55f4c9.css.map": "/coding-challenge-frontend/static/css/main.df55f4c9.css.map",
+    "main.f999cc36.js.map": "/coding-challenge-frontend/static/js/main.f999cc36.js.map",
     "787.a2db4de0.chunk.js.map": "/coding-challenge-frontend/static/js/787.a2db4de0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93e7cbe2.css",
-    "static/js/main.e65bd7d5.js"
+    "static/css/main.df55f4c9.css",
+    "static/js/main.f999cc36.js"
   ]
 }
